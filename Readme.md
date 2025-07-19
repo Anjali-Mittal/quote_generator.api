@@ -10,7 +10,7 @@ A lightweight Flask-based REST API that returns inspirational, emotional, and mo
 - 🎯 Get a random quote
 - 🎭 Filter quotes by mood using query parameters (`/quote?mood=happy`)
 - 🧠 Quotes stored in a structured `quotes.json` file (author, text, mood)
-- ☁️ **🔗 [https://quotegen-api.onrender.com](https://quotegen-api.onrender.com)**
+- ☁️ **🔗 [Deployed on Render](https://quotegen-api.onrender.com)**
 - 🔧 Easily extendable (add support for author filtering, mood listing, etc.)
 
 ---
