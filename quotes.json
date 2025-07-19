@@ -1,0 +1,377 @@
+[
+  {
+    "text": "It is our choices that show what we truly are, far more than our abilities.",
+    "author": "J.K. Rowling",
+    "mood": "motivational"
+  },
+  {
+    "text": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+    "author": "J.K. Rowling",
+    "mood": "hopeful"
+  },
+  {
+    "text": "If you want to know what a man’s like, take a good look at how he treats his inferiors, not his equals.",
+    "author": "J.K. Rowling",
+    "mood": "reflective"
+  },
+  {
+    "text": "With great power... comes great need to take a nap. Wake me up later.",
+    "author": "Rick Riordan",
+    "mood": "funny"
+  },
+  {
+    "text": "Even strength must bow to wisdom sometimes.",
+    "author": "Rick Riordan",
+    "mood": "calm"
+  },
+  {
+    "text": "The sea does not like to be restrained.",
+    "author": "Rick Riordan",
+    "mood": "thoughtful"
+  },
+  {
+    "text": "Some infinities are bigger than other infinities.",
+    "author": "John Green",
+    "mood": "thoughtful"
+  },
+  {
+    "text": "You don’t get to choose if you get hurt in this world... but you do have some say in who hurts you.",
+    "author": "John Green",
+    "mood": "sad"
+  },
+  {
+    "text": "Maybe our favorite quotations say more about us than about the stories and people we're quoting.",
+    "author": "John Green",
+    "mood": "reflective"
+  },
+  {
+    "text": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+    "author": "Albert Einstein",
+    "mood": "motivational"
+  },
+  {
+    "text": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein",
+    "mood": "creative"
+  },
+  {
+    "text": "Try not to become a man of success but rather try to become a man of value.",
+    "author": "Albert Einstein",
+    "mood": "reflective"
+  },
+  {
+    "text": "If I have seen further, it is by standing on the shoulders of giants.",
+    "author": "Isaac Newton",
+    "mood": "humble"
+  },
+  {
+    "text": "What we know is a drop, what we don't know is an ocean.",
+    "author": "Isaac Newton",
+    "mood": "curious"
+  },
+  {
+    "text": "Tact is the art of making a point without making an enemy.",
+    "author": "Isaac Newton",
+    "mood": "calm"
+  },
+  {
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Anonymous",
+    "mood": "confident"
+  },
+  {
+    "text": "Sometimes it's okay if the only thing you did today was breathe.",
+    "author": "Anonymous",
+    "mood": "anxious"
+  },
+  {
+    "text": "Fall seven times, stand up eight.",
+    "author": "Anonymous",
+    "mood": "resilient"
+  },
+  {
+    "text": "Don't cry because it's over, smile because it happened.",
+    "author": "Dr. Seuss",
+    "mood": "grateful"
+  },
+  {
+    "text": "Tears come from the heart and not from the brain.",
+    "author": "Leonardo da Vinci",
+    "mood": "sad"
+  },
+  {
+    "text": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "mood": "motivational"
+  },
+  {
+    "text": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman",
+    "mood": "hopeful"
+  },
+  {
+    "text": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "mood": "motivational"
+  },
+  {
+    "text": "Speak when you are angry and you will make the best speech you will ever regret.",
+    "author": "Ambrose Bierce",
+    "mood": "angry"
+  },
+  {
+    "text": "Gratitude turns what we have into enough.",
+    "author": "Anonymous",
+    "mood": "grateful"
+  },
+  {
+    "text": "You don’t have to control your thoughts. You just have to stop letting them control you.",
+    "author": "Anonymous",
+    "mood": "anxious"
+  },
+  {
+    "text": "If you’re not confused, you’re not paying attention.",
+    "author": "Tom Peters",
+    "mood": "confused"
+  },
+  {
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "mood": "motivational"
+  },
+  {
+    "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, ‘I will try again tomorrow.’",
+    "author": "Mary Anne Radmacher",
+    "mood": "resilient"
+  },
+  {
+    "text": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "mood": "motivational"
+  },
+  {
+    "text": "Peace begins with a smile.",
+    "author": "Mother Teresa",
+    "mood": "calm"
+  },
+  {
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "mood": "hopeful"
+  },
+  {
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "mood": "motivational"
+  },
+  {
+    "text": "Everything you can imagine is real.",
+    "author": "Pablo Picasso",
+    "mood": "creative"
+  },
+  {
+    "text": "Art is the lie that enables us to realize the truth.",
+    "author": "Pablo Picasso",
+    "mood": "thoughtful"
+  },
+  {
+    "text": "You miss 100% of the shots you don’t take.",
+    "author": "Wayne Gretzky",
+    "mood": "motivational"
+  },
+  {
+    "text": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "mood": "resilient"
+  },
+  {
+    "text": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West",
+    "mood": "funny"
+  },
+  {
+    "text": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "author": "Franklin D. Roosevelt",
+    "mood": "resilient"
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "mood": "motivational"
+  },
+  {
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "mood": "thoughtful"
+  },
+  {
+    "text": "Reality is wrong, dreams are for real.",
+    "author": "Tupac Shakur",
+    "mood": "dreamy"
+  },
+  {
+    "text": "When nothing goes right, go left.",
+    "author": "Anonymous",
+    "mood": "funny"
+  },
+  {
+    "text": "A smooth sea never made a skilled sailor.",
+    "author": "Franklin D. Roosevelt",
+    "mood": "resilient"
+  },
+  {
+    "text": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "mood": "persistent"
+  },
+  {
+    "text": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "mood": "motivational"
+  },
+  {
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "mood": "practical"
+  },
+  {
+    "text": "It always seems impossible until it’s done.",
+    "author": "Nelson Mandela",
+    "mood": "motivational"
+  },
+  {
+    "text": "One day or day one. You decide.",
+    "author": "Anonymous",
+    "mood": "motivational"
+  },
+  {
+    "text": "Only in their dreams can mean truly be free.T'was always thus, and always thus will be.",
+    "author": "John Keating",
+    "mood": "reflective"
+  },
+  {
+    "text": "Love is the one thing we're capable of perceiving that transcends time and space.",
+    "author": "Interstellar",
+    "mood": "existential"
+  },
+  {
+    "text": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+    "author": "Interstellar (quoted poem)",
+    "mood": "defiant"
+  },
+  {
+    "text": "We’re not meant to save the world. We’re meant to leave it.",
+    "author": "Interstellar",
+    "mood": "reflective"
+  },
+  {
+    "text": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+    "author": "Dead Poets Society",
+    "mood": "inspirational"
+  },
+  {
+    "text": "No matter what anybody tells you, words and ideas can change the world.",
+    "author": "Dead Poets Society",
+    "mood": "hopeful"
+  },
+  {
+    "text": "Only in their dreams can men be truly free. It was always thus, and always thus will be.",
+    "author": "Dead Poets Society",
+    "mood": "thoughtful"
+  },
+  {
+    "text": "You’re not perfect, sport. And let me save you the suspense: this girl you met, she’s not perfect either.",
+    "author": "Good Will Hunting",
+    "mood": "realistic"
+  },
+  {
+    "text": "It’s not your fault. It’s not your fault. It’s not your fault.",
+    "author": "Good Will Hunting",
+    "mood": "emotional"
+  },
+  {
+    "text": "Some people can't believe in themselves until someone else believes in them first.",
+    "author": "Good Will Hunting",
+    "mood": "supportive"
+  },
+  {
+    "text": "Real loss is only possible when you love something more than you love yourself.",
+    "author": "Good Will Hunting",
+    "mood": "painful"
+  },
+  {
+    "text": "You have to do everything you can. If you stay positive, you have a shot at a silver lining.",
+    "author": "The Pursuit of Happyness",
+    "mood": "optimistic"
+  },
+  {
+    "text": "Don’t ever let somebody tell you you can’t do something. Not even me.",
+    "author": "The Pursuit of Happyness",
+    "mood": "motivational"
+  },
+  {
+    "text": "This part of my life... this part right here? This is called happiness.",
+    "author": "The Pursuit of Happyness",
+    "mood": "happy"
+  },
+  {
+    "text": "Life is not the amount of breaths you take, it’s the moments that take your breath away.",
+    "author": "Hitch",
+    "mood": "romantic"
+  },
+  {
+    "text": "You can’t put a limit on anything. The more you dream, the farther you get.",
+    "author": "Hitch",
+    "mood": "motivational"
+  },
+  {
+    "text": "Life is not about the destination, it’s about the journey.",
+    "author": "Hitch",
+    "mood": "philosophical"
+  },
+  {
+    "text": "You know, you’re not perfect. But you are trying.",
+    "author": "Hitch",
+    "mood": "supportive"
+  },
+  {
+    "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller",
+    "mood": "inspirational"
+  },
+  {
+    "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+    "author": "Helen Keller",
+    "mood": "motivational"
+  },
+  {
+    "text": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "mood": "adventurous"
+  },
+  {
+    "text": "Keep your face to the sunshine and you cannot see a shadow.",
+    "author": "Helen Keller",
+    "mood": "hopeful"
+  },
+  {
+    "text": "The only thing worse than being blind is having sight but no vision.",
+    "author": "Helen Keller",
+    "mood": "thoughtful"
+  },
+  {
+    "text": "What we have to learn to do, we learn by doing.",
+    "author": "Aristotle",
+    "mood": "practical"
+  },
+  {
+    "text": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "mood": "reflective"
+  },
+  {
+    "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+    "author": "Aristotle",
+    "mood": "thoughtful"
+  }
+]
